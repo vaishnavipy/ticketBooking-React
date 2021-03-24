@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ticketBooking-React/static/css/main.cdecef33.chunk.css",
+    "main.js": "/ticketBooking-React/static/js/main.26fbc584.chunk.js",
+    "main.js.map": "/ticketBooking-React/static/js/main.26fbc584.chunk.js.map",
+    "runtime-main.js": "/ticketBooking-React/static/js/runtime-main.d949c6f0.js",
+    "runtime-main.js.map": "/ticketBooking-React/static/js/runtime-main.d949c6f0.js.map",
+    "static/js/2.fa09145f.chunk.js": "/ticketBooking-React/static/js/2.fa09145f.chunk.js",
+    "static/js/2.fa09145f.chunk.js.map": "/ticketBooking-React/static/js/2.fa09145f.chunk.js.map",
+    "static/js/3.0148fcac.chunk.js": "/ticketBooking-React/static/js/3.0148fcac.chunk.js",
+    "static/js/3.0148fcac.chunk.js.map": "/ticketBooking-React/static/js/3.0148fcac.chunk.js.map",
+    "index.html": "/ticketBooking-React/index.html",
+    "static/css/main.cdecef33.chunk.css.map": "/ticketBooking-React/static/css/main.cdecef33.chunk.css.map",
+    "static/js/2.fa09145f.chunk.js.LICENSE.txt": "/ticketBooking-React/static/js/2.fa09145f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d949c6f0.js",
+    "static/js/2.fa09145f.chunk.js",
+    "static/css/main.cdecef33.chunk.css",
+    "static/js/main.26fbc584.chunk.js"
+  ]
+}
